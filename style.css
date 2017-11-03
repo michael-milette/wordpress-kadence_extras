@@ -1,0 +1,7 @@
+@media screen and (max-width: 991px) {
+    #topbar-search {display:none;}
+    ul.kad-mnav #searchform {margin-bottom:20px;}
+    ul.kad-mnav .input-group {display: flex;}
+    ul.kad-mnav .input-group input[type="text"] {flex: 1;}
+    ul.kad-mnav button {margin:3px 0 3px 3px!important;}
+}

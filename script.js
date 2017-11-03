@@ -1,0 +1,2 @@
+jQuery('span.kad-navbtn').prepend('<i class="icon-search"></i>&nbsp;');
+jQuery('ul.kad-mnav').prepend('<li><form role="search" method="get" id="searchform" class="form-horizontal" action="https://www.tngconsulting.ca/" autocomplete="off" accept-charset="utf-8"><div class="input-group"><input placeholder="Search..." id="s" name="s" value="" class="form-control input-lg" type="text"><span class="input-group-btn"><button type="submit" id="searchsubmit" class="icon-search btn btn-info btn-lg"></button></span></div></form></li>');
